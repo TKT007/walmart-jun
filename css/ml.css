@@ -14,7 +14,7 @@ a {
 
 }
 h1 {
-    color: #0B2972;
+    color: #000000;
     margin: 10px 0;
     font-size: 30px;
     line-height: 30px;
@@ -37,7 +37,7 @@ header {
     font-weight: 700;
 }
 .red {
-    color: #0B2972;
+    color: #000000;
 }
 /* header */
 .header_social {
@@ -109,7 +109,7 @@ header {
     background: #ebedf0;
 }
 .block_quiz_question {
-    color: #0B2972;
+    color: #000000;
     font-size: 24px;
 }
 .button {
